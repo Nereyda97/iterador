@@ -1,0 +1,2 @@
+# iterador
+tiene errores
